@@ -24,6 +24,13 @@ li {
   list-style: none;
 }
 
+.footer {
+  text-align: center;
+  font-family: arial, sans-serif;
+  margin: 0px auto;
+  
+}
+
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
