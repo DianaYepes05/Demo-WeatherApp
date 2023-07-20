@@ -24,8 +24,8 @@ li {
   list-style: none;
 }
 
-.footer {
-  text-align: -webkit-center;
+.codedBy {
+  text-align: center;
   font-family: arial, sans-serif;
 }
 
