@@ -25,10 +25,8 @@ li {
 }
 
 .footer {
-  text-align: center;
+  text-align: -webkit-center;
   font-family: arial, sans-serif;
-  margin: 0px auto;
-  
 }
 
 .weather-app {
